@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @tiffanybridge
-- 👀 I’m interested in WordPress, web performance, ecommerce, and product management
-- 🌱 I’m currently learning ... everything I can.
-- 💞️ I’m looking to collaborate on making WordPress easier for newbies
-- 📫 How to reach me: email at tiffany.joy@ that google mail service, and you can find me at https://tiff.is
+# Hi, I'm Tiffany
 
-<!---
-tiffanybridge/tiffanybridge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PM experimenting with building the tools I wish I had — workflow automation,
+AI agents, and whatever else seems worth shipping.
+
+## What I'm Up To
+
+- Learning to build, not just spec
+- Exploring where AI agents are actually useful for PMs vs. where they're not
+- Open to connecting with other PMs and builders
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/tbaxbridge/)
